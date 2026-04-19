@@ -1311,6 +1311,7 @@ Need all three?
   --> Use S3 for frontend + API Gateway + Lambda for backend + EC2 for database
 ```
 
+
 ---
 
 ## 8. Common Mistakes to Avoid
